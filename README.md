@@ -1,10 +1,8 @@
 ![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)
 <h1 align="center">Hi 👋, I'm Aishwarya Kathroju</h1>
-<h3 align="center">A Java developer</h3>
+<h3 align="center">A Machine Learning Enthusiast </h3>
 <img align="right" alt= "coding" width="400" src = "https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
-- 🔭 I’m currently working on <b>Research in health care using machine learning</b>
-
-- 🌱 I’m currently learning  <b>Deep Learning and NLP </b>
+- 🔭 I’m currently working on <b>Large language models</b>
 
 - 💬 How to reach me **www.linkedin.com/in/aishwarya-kathroju-a7448b265**
 
@@ -14,7 +12,7 @@
 
 - 🪙 **IEEE WIE treasurer**
   
-- ⚡ about me  : **Prefinal student at Amrita Vishwa Vidyapeetham, IEEE WIE treasurer, Java developer and ML researcher.**
+- ⚡ about me: **final year student at Amrita Vishwa Vidyapeetham,Java developer and ML researcher.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
